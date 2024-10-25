@@ -7,7 +7,6 @@ const Navbar = () => {
         <p className='text-blue-400 text-3xl'><Link to={'/'}>Home</Link></p>
         <p className='text-blue-400 text-3xl'><Link to={'about'}>About</Link></p>
         <p className='text-blue-400 text-3xl'><Link to={'contact'}>Contact</Link></p>
-        <p className='text-blue-400 text-3xl'><Link to={'service'}>Services</Link></p>
         <p className='text-blue-400 text-3xl'><Link to={'product'}>Product</Link></p>
     </div>
   )
